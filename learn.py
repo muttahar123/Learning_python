@@ -22,4 +22,13 @@ if 6 > 2:
     print("Six is greater than two!")
 else:
     print("Six is not greater than two.")
-    
+
+x = 10
+y = 5
+
+if x > y:
+    print("x is greater than y")
+else:
+    print("x is not greater than y")    
+
+
